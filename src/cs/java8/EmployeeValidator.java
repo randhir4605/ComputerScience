@@ -1,8 +1,8 @@
-package learn.java8;
+package cs.java8;
 
 import java.util.function.Predicate;
 
-import learn.dto.Employee;
+import cs.dto.Employee;
 
 public interface EmployeeValidator {
 

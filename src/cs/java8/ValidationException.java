@@ -1,4 +1,4 @@
-package learn.java8;
+package cs.java8;
 
 public class ValidationException extends RuntimeException {
 

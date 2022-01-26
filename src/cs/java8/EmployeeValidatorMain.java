@@ -1,12 +1,12 @@
-package learn.java8;
+package cs.java8;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import learn.dto.Address;
-import learn.dto.Employee;
+import cs.dto.Address;
+import cs.dto.Employee;
 
 public class EmployeeValidatorMain {
 

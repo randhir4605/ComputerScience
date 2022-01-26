@@ -1,6 +1,6 @@
-package learn.java8;
+package cs.java8;
 
-import learn.dto.Address;
+import cs.dto.Address;
 
 public class AddressProcess {
 

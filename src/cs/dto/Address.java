@@ -1,4 +1,4 @@
-package learn.dto;
+package cs.dto;
 
 public class Address {
 

@@ -1,8 +1,8 @@
-package learn.java8;
+package cs.java8;
 
 import java.util.function.Function;
 
-import learn.dto.Employee;
+import cs.dto.Employee;
 
 public class EmployeeProcess {
 

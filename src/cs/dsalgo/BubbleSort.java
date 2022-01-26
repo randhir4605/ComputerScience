@@ -1,4 +1,4 @@
-package learn.dsalgo;
+package cs.dsalgo;
 
 public class BubbleSort {
 
